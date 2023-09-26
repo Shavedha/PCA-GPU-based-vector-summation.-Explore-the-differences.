@@ -5,6 +5,7 @@ ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel t
 ## Aim
 To explore the differences between the execution time of GPU based vector summation.
 
+
 ## Procedure
 1. Initialize CUDA device, allocate host memory, and set data size (nElem).
 2. Generate random data for h_A and h_B using initialData.
