@@ -14,7 +14,9 @@ To explore the differences between the execution time of GPU based vector summat
 6. Compare CPU and GPU results using checkResult and print whether they match.
 7. Free device global memory with cudaFree and free host memory allocated with malloc before concluding the program.
 ## Program
-```
+```cuda
+Developed y: Y SHAVEDHA
+Register No. 212221230095
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
